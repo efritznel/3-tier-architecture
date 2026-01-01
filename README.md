@@ -1,4 +1,5 @@
 # Project: 3-tier-architecture
+![Project Image]https://github.com/efritznel/3-tier-architecture/blob/main/3tier%20diagram.gif
 
 # Step 1. Created s3 bucket for TF backend
 
